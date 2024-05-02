@@ -1,0 +1,9 @@
+User
+.details-section{
+    height: 5vh;
+    align-items: center;
+}
+.details-section :hover{
+    color: rgb(196, 12, 196);  
+    cursor: pointer;
+}
